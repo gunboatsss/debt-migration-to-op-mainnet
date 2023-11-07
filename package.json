@@ -36,6 +36,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@eth-optimism/contracts": "^0.3.4",
 		"@evmts/cli": "^0.11.2",
 		"@evmts/core": "^0.11.2",
 		"@wagmi/cli": "^1.5.2",
